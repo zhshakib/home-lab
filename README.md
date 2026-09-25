@@ -81,7 +81,8 @@ Portfolio project: rebuild this journal as a **Laravel blog**. Documentation and
 ## Status
 
 - [x] Day 0 — planning + decisions locked
-- [ ] Fedora KDE installed
+- [x] Fedora KDE installed
+- [x] Tweaking Teriminal and Looks of KDE. 
 - [ ] Dev environment ready (PHP, Composer, Podman, VS Code)
 - [ ] Local AI agent running
 - [ ] First Laravel app deployed
